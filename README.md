@@ -2,9 +2,11 @@
 
 Project to practise high order array methods and DOM manipulation 
 
-## <a href="https://array-menthod-project.vercel.app/" target="_blank" title="Demo">
-    Live Demo
-</a>
+<h2>
+    <a href="https://array-menthod-project.vercel.app/" target="_blank" title="Demo">
+        Live Demo
+    </a>
+</h2>
 
 ## Project Specifications
 
